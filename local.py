@@ -1,3 +1,4 @@
-a = 20
-b = 500
-print( a * b )
+a = 5
+b = 3
+print( a + b )
+
